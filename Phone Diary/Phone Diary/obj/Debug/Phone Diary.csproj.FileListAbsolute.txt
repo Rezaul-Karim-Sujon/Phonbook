@@ -1,0 +1,10 @@
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\bin\Debug\Phone Diary.exe.config
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\bin\Debug\Phone Diary.exe
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\bin\Debug\Phone Diary.pdb
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\obj\Debug\Phone Diary.csprojResolveAssemblyReference.cache
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\obj\Debug\Phone_Diary.PhoneBook.resources
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\obj\Debug\Phone_Diary.Properties.Resources.resources
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\obj\Debug\Phone Diary.csproj.GenerateResource.Cache
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\obj\Debug\Phone Diary.exe
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\obj\Debug\Phone Diary.pdb
+E:\Assignment\4th Semester\C#\Phone Diary\Phone Diary\bin\Debug\MySql.Data.dll
